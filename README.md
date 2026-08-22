@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
