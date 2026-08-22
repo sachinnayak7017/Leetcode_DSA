@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -15,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
