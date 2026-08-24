@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -38,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
