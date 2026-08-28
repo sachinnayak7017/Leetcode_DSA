@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
