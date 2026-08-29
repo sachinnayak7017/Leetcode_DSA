@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
