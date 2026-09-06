@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
