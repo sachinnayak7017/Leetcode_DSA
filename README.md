@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0086-partition-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Recursion
@@ -133,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
