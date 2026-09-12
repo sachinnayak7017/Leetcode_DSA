@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0242-valid-anagram) |
