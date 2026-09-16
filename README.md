@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0086-partition-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 ## Queue
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
