@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
