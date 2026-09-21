@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
 | ------- |
