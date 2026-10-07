@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0856-score-of-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
