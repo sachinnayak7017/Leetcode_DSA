@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0867-transpose-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -295,4 +300,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
