@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2643-row-with-maximum-ones) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0867-transpose-matrix) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
