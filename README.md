@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0118-pascals-triangle) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2643-row-with-maximum-ones) |
