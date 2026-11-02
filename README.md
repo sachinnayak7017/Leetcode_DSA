@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0867-transpose-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0867-transpose-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
