@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0867-transpose-matrix](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0867-transpose-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0086-partition-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
