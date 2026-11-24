@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sachinnayak7017/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
